@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.custom-gradient {
+  background: linear-gradient(to right, #E0C6F3 0%, 18.97689700126648%, #E0E2F9 37.95379400253296%, 68.97689700126648%, #B5A8F8 100%);  
+}
